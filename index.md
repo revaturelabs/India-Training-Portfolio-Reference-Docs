@@ -4,7 +4,7 @@ Refer to the documents on this site to generate your portfolio through RevPro. R
 The guidelines on this page are the same for all training tracks.
 
 * Please DO NOT CLONE your portfolio, unless asked to do so (if you need to make changes, just edit the same portfolio)
-* Check your revature.net email. If your portfolio is rejected, you will receive an email with comments on changes to be made
+* Check your email registered with revature. If your portfolio is rejected, you will receive an email with comments on changes to be made
 * Be aware of submission deadlines for Phase 1 and 2
 
 Also, a note on writing. As a developer, you may not think of yourself as a writer. You use GUIs and the command line and code to deliver business value - what does writing a portfolio have to do with that and why is it important? In reality, being a developer requires communicating in many ways, including writing. The code you write must be clear, concise, and understandable to others who you are working with. You have to follow the rules of the programming language you use.
