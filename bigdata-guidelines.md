@@ -31,6 +31,6 @@ Refer to the [Portfolio Guidelines](./bigdata-guidelines.md#portfolio-guidelines
 
 Below you have Published Portfolio Samples for your reference. Please do not replicate the same sentences.
 
-- [Sample 1](https://app.revature.com/profile/mottonen12n/280cec807da2b284c1fcb4eb30a4103b)
-- [Sample 2](https://app.revature.com/profile/unpointysock/940652331cf64047a58a975b3b889d83) 
+- [Sample 1](https://app.revature.com/profile/ChekurthaSravani/bcfc5e5627e506a69e78a34768e668a4)
+- [Sample 2](https://app.revature.com/profile/Shivaji/0765c4566af46de52ed5df2bdf2dcf7a) 
  
