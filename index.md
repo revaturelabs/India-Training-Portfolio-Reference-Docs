@@ -46,7 +46,7 @@ Finally, here are some examples of what NOT to put in your portfolio:
 - Details about your personal life or friends or family (use common sense judgement here)
 - Don't try to be funny, witty, or use sarcasm (it may be interpreted as unprofessional)
 
-#### [About Me Templates](./aboutme-templates.md)
+#### You can refer to the [About Me Templates](./aboutme-templates.md) here.
 
 ### Education & Certifications
 -   Fill in your completed degree, Major, University, Month & Year of completion.
