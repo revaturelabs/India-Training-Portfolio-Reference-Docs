@@ -2,7 +2,6 @@
 
 From the below About Me templates/examples, you can pick the suitable one and update accordingly in your portfolio.
 
----
 ### About Me 1: 
 Passionate and young software engineer, graduate in ..........(stream) and a result oriented professional. I have hands-on knowledge and experience in ............... for eg (cloud-based applications). Also, I have been able to gain immense exposure in full stack development using java stack while working with Revature.
 
