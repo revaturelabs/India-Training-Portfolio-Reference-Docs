@@ -129,7 +129,7 @@ I certainly want to join hands with a firm in the similar and advanced skill lev
 Personal Facts:
 
 ---
-### About Me19: 
+### About Me 19: 
 I am an enthusiastic software developer graduate in ............(stream). I aspire to work with an organization where I can be an investment with my proficient skills in ................ for eg(Java full stack, ASP.Net, Unix, HTML,CSS).
 
 With a year’s great learning experience at Revature, I have flawless hands-on knowledge of problem solving skills and real time experience in .......... for eg (cloud based applications, development and implementations, and angular web developments)
