@@ -327,5 +327,3 @@ Passionate and committed software developer with experience on building full-sta
 I joined Revature to expand my skills and tech stack, to work with different development methodologies like ......., and to practice my interpersonal and communication skills. During my time at Revature, I have worked on several projects where I gained experience in backend technologies such as (eg: Java, SQL, Spring framework, and microservice architecture) and frontend development such as (eg: HTML/CSS, JavaScript, and Angular)
 
 I have good knowledge of ......... (Specify your stronger area -eg:JAVA, Python, Node JS, C++, C#. NET). Ability to implement a full software development life cycle (SDLC) and analyze the performance of programs to correct deficiencies. Excellent communication skills and ability to understand client requirements.  Continuous learner of new technologies, strategies, and tools.
-
----
