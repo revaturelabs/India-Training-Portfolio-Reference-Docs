@@ -16,6 +16,7 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
     -   Equivalency for each skill should be mentioned.       
     -   It is mandatory to add **Microservices** as a category under the Skill Matrix.
     -   Check your capitalization of each technology or tool. Acronyms like AJAX or ORM should be in all caps, proper nouns like Java should be capitalized, compound words like DevOps should have each word capitalized, and normal words should not be capitalized. If you have a question about it, just google it and check before you submit it!
+    -   You can refer to skill matrix sections the [Portfolio Samples](./javams-guidelines.md#portfolio-samples) to update skill matrix in your portfolio accordingly. 
 
 4.  **Projects**
     -   **Roles/Responsibilities** - Mention your Roles in the Project and add at least 8 bulleted responsibilities
