@@ -13,7 +13,7 @@ Refer to the [Portfolio Guidelines](./bigdata-guidelines.md#portfolio-guidelines
     -   This section used to mention the list of technologies/skills relevant to your core technology stack.
     -   Add a **minimum of 5 categories and 5 sub-skills each**.
     -   Equivalency for each skill should be mentioned.       
-    -   Check your capitalization of each technology or tool. Acronyms like HDFS or SQL should be in all caps, proper nouns like Java should be capitalized, compound words like DevOps should have each word capitalized, and normal words should not be capitalized. If you have a question about it, just google it and check before you submit it!
+    -   Check your capitalization of each technology or tool. Acronyms like HDFS or SQL should be in all caps, proper nouns like Python should be capitalized, compound words like BigData, MongoDB, Spark SQL should capitalized, and normal words should not be capitalized. If you have a question about it, just google it and check before you submit it!
     -   You can refer to skill matrix sections the [Portfolio Samples](./bigdata-guidelines.md#portfolio-samples) to update skill matrix in your portfolio accordingly.  
 
 4.  **Projects**
