@@ -7,13 +7,14 @@ Refer to the [Portfolio Guidelines](./bigdata-guidelines.md#portfolio-guidelines
 1.  Add **Job Title** as **Big Data Engineer**.
 
 2.  **Industry equivalency** – Add your top 5 key skills that are relevant to your core technology stack and the equivalency in months for each skill.
-	- **Recommended Industry Equivalency Skills** - 
+	- **Recommended Industry Equivalency Skills** - Hadoop, Hive, MongoDB, Python, Spark SQL, Kafka, Spark
 
 3.  **Skills Matrix**
     -   This section used to mention the list of technologies/skills relevant to your core technology stack.
     -   Add a **minimum of 5 categories and 5 sub-skills each**.
     -   Equivalency for each skill should be mentioned.       
     -   Check your capitalization of each technology or tool. Acronyms like HDFS or SQL should be in all caps, proper nouns like Java should be capitalized, compound words like DevOps should have each word capitalized, and normal words should not be capitalized. If you have a question about it, just google it and check before you submit it!
+    -   You can refer to skill matrix sections the [Portfolio Samples](./bigdata-guidelines.md#portfolio-samples) to update skill matrix in your portfolio accordingly.  
 
 4.  **Projects**
     -   **Roles/Responsibilities** - Mention your Roles in the Project and add at least 8 bulleted responsibilities
