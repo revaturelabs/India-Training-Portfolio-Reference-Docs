@@ -34,7 +34,9 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
 
 Below you have Published Portfolio Samples for your reference. Please do not replicate the same sentences.
 
-- [Sample 1](https://app.revature.com/profile/magnusjw/b8b8365efdf3c093d180fd768b5c379d) 
-- [Sample 2](https://app.revature.com/profile/BillyToledo/3d1d3e0725ba358a936ff6ebbe0554c0)
+- [Sample 1](https://app.revature.com/profile/VyshnaviYakkanti/eaa276092f31d5b6a7c294b8b6c4da0a) 
+- [Sample 2](https://app.revature.com/profile/AnmolSinghGehlot/877154bc51c775ff530fb0e60bc4a0a0)
+- [Sample 3](https://app.revature.com/profile/SilvanS/b519698a7b904d9ed86dd9cfc6a1b4bf)
+- [Sample 4](https://app.revature.com/profile/ShivamGoel/490c7e92d302d5187211e1eb272cd1a9)
 
  
