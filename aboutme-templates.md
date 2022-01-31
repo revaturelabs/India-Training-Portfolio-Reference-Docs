@@ -216,7 +216,7 @@ As I have pursued my passion for ........ for eg (cloud based and Creative angul
 
 Personal facts:
 
----
+
 ### About Me 28:
 Software Technology enthusiast and graduate in ............... (stream). With 1 year experience at Revature I have gained immense....................... for eg ( realtime exposure to database technologies and also hands on expertise in full stack development using java technology stack)
 
