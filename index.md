@@ -46,6 +46,8 @@ Finally, here are some examples of what NOT to put in your portfolio:
 - Details about your personal life or friends or family (use common sense judgement here)
 - Don't try to be funny, witty, or use sarcasm (it may be interpreted as unprofessional)
 
+#### [About Me Templates](./aboutme-templates.md)
+
 ### Education & Certifications
 -   Fill in your completed degree, Major, University, Month & Year of completion.
 -   Fill in your Certification Name, Certification ID, Issued By, Issued On (if any). Upload the Certification Logo/Badge. Add the Public URL to verify your certification.
