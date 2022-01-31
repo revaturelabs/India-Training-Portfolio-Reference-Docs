@@ -12,7 +12,7 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
 
 3.  **Skills Matrix**
     -   This section used to mention the list of technologies/skills relevant to your core technology stack.
-    -   Add a **minimum of 5 categories and 6 sub-skills each**.
+    -   Add a **minimum of 5 categories and 5 sub-skills each**.
     -   Equivalency for each skill should be mentioned.       
     -   It is mandatory to add **Microservices** as a category under the Skill Matrix.
     -   Check your capitalization of each technology or tool. Acronyms like AJAX or ORM should be in all caps, proper nouns like Java should be capitalized, compound words like DevOps should have each word capitalized, and normal words should not be capitalized. If you have a question about it, just google it and check before you submit it!
@@ -34,4 +34,6 @@ Refer to the [Portfolio Guidelines](./javams-guidelines.md#portfolio-guidelines)
 Below you have Published Portfolio Samples for your reference. Please do not replicate the same sentences.
 
 - [Sample 1](https://app.revature.com/profile/magnusjw/b8b8365efdf3c093d180fd768b5c379d) 
+- [Sample 2](https://app.revature.com/profile/BillyToledo/3d1d3e0725ba358a936ff6ebbe0554c0)
+
  
